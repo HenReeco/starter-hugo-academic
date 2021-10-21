@@ -14,13 +14,13 @@ organizations:
   url: https://www.engr.uky.edu/research-faculty/departments/computer-science
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: PhD candidate conducting research on smart grids and power conservation, providing CS expertise in cross-field projects and supervising undergrad research.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Smart grids and renewable energy
+- Animal health care prevention
+- Fog Computing
 
 # Education to show in About widget
 education:
@@ -43,18 +43,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:enrico.casella@uky.edu'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=i4gu7mAAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/HenReeco?tab=repositories
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/enricocasella/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,6 +70,6 @@ email: ""
 highlight_name: true
 ---
 
-I'm a fourth year Ph.D. Candidate conducting main research on smart grids and development of machine learning techniques for power conservation. I also conduct research on reinforcement learning-based computing offloading in fog computing. And I provide CS expertise animal health care prevention. I supervise undergraduate research for students in CPSlab.
+I'm a fourth year Ph.D. Candidate conducting main research on smart grids and development of machine learning techniques for power conservation. I also conduct research on reinforcement learning-based computing offloading in fog computing. And I provide CS expertise on animal health care prevention. I supervise undergraduate research for students in CPSlab.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "/uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
