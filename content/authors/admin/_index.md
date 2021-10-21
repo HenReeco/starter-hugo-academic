@@ -72,4 +72,4 @@ highlight_name: true
 
 I'm a fourth year Ph.D. Candidate conducting main research on smart grids and development of machine learning techniques for power conservation. I also conduct research on reinforcement learning-based computing offloading in fog computing. And I provide CS expertise animal health care prevention. I supervise undergraduate research for students in CPSlab.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "/content/authors/admin/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
