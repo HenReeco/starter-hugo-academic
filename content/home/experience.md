@@ -65,8 +65,8 @@ experience:
         * Grading
         
   - title: Visiting Research Scholar
-    company: Missouri University of Sciency and Technology - Computer Science Department
-    company_url: ''
+    company: Missouri University of Science and Technology - Computer Science Department
+    company_url: 'https://cs.mst.edu'
     company_logo: mst
     location: Missorui
     date_start: '2017-03-01'
