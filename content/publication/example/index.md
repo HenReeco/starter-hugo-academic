@@ -6,12 +6,13 @@ title: "An example conference paper"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+# other authors:
+# - Robert Ford
 
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
-- "Equal contribution"
+# - "Equal contribution"
 
 date: "2013-07-01T00:00:00Z"
 doi: ""
@@ -37,7 +38,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -65,8 +66,10 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+
+# to add this in other pages:
+# projects:
+# - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
