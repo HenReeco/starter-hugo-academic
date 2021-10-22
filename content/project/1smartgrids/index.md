@@ -1,5 +1,5 @@
 ---
-title: Smart grids and power conservation
+title: Smart Grids and Power Conservation
 summary: Despite the efforts to modernize our power systems, use renewable energy, or backup electricity storage, catsatrohic events like Texas winter storms or California wildfires still 
 tags:
 - Machine Learning

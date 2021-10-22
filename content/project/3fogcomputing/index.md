@@ -1,5 +1,5 @@
 ---
-title: Fog computing and modern computation offloading
+title: Fog Computing and Computation Offloading
 summary: While the hardware capabilities for IoT devices is pushed by the industrial world, giving us smart rings and or Alexa-powered coffee machines, efficient software does not keep up well enough, and inefficient computations ends up affecting how the provides services affect the incredible hardware advancements.
 tags:
 - Reinforcement Learning
