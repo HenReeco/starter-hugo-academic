@@ -33,11 +33,11 @@ image:
 
 Health care prevention starts from monitoring and activity recognition. Wearable devices are a great tool that allows pervasive monitoring and they allow the implementation of algorithms for efficient monitoring. I have carried out works that perform activity recognition on horses, and works for the prediction of bovine respiratory diseases from behavioral changes.
 
-Publications on horse gait activity recognition:
+<!-- Publications on horse gait activity recognition:
 
 {{< icon name="download" pack="fas" >}} See article {{< staticref "https://ieeexplore.ieee.org/abstract/document/8784022" "newtab" >}}"Smartwatch application for horse gaits activity recognition"{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} See article {{< staticref "https://www.sciencedirect.com/science/article/abs/pii/S1574119220300754" "newtab" >}}"A framework for the recognition of horse gaits through wearable devices"{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} See article {{< staticref "https://www.sciencedirect.com/science/article/abs/pii/S1574119220300754" "newtab" >}}"A framework for the recognition of horse gaits through wearable devices"{{< /staticref >}}. -->
 
 
 Publications on bovine respiratory disease:
