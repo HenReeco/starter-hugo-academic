@@ -31,7 +31,7 @@ image:
 # slides: example
 ---
 
-Health care prevention starts from monitoring and activity recognition. Wearable devices are a great tool that allows pervasive monitoring and they allow the implementation of algorithms for efficient monitoring. I have carried out works that perform activity recognition on horses, and works for the prediction of bovine respiratory diseases from behavioral changes.
+Health care prevention starts from monitoring and activity recognition. Wearable devices are a great tool that allows pervasive monitoring and they allow the implementation of algorithms for efficient monitoring. Similarly, livestock precision technologies allow monitoring of additional parameters such as feeding behavior. I have carried out works that perform activity recognition on horses, and works for the prediction of bovine respiratory diseases from behavioral changes.
 
 <!-- Publications on horse gait activity recognition:
 
@@ -40,8 +40,8 @@ Health care prevention starts from monitoring and activity recognition. Wearable
 {{< icon name="download" pack="fas" >}} See article {{< staticref "https://www.sciencedirect.com/science/article/abs/pii/S1574119220300754" "newtab" >}}"A framework for the recognition of horse gaits through wearable devices"{{< /staticref >}}. -->
 
 
-Publications on bovine respiratory disease:
+<!-- Publications on bovine respiratory disease: -->
 
-Article under review... stay tuned!
+<!-- Article under review... stay tuned! -->
 
 <!-- [I'm an external link](https://www.google.com) -->

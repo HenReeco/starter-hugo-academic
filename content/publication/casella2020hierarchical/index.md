@@ -7,20 +7,19 @@ title: "Hierarchical syntactic models for human activity recognition through mob
 authors:
 - admin
 other authors:
-- Marco Ortolani
+- Atieh R. Khamesi
 - Simone Silvestri
-- Sajal K. Das
 
 # Author notes (optional)
 author_notes:
 - "First author"
 # - "Equal contribution"
 
-date: "2019-11-25T00:00:00Z"
-doi: "https://doi.org/10.1007/s00779-019-01319-9"
+date: "2020-09-01T00:00:00Z"
+doi: "https://doi.org/10.1016/j.pmcj.2020.101213"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-11-25T00:00:00Z"
+publishDate: "2020-09-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -32,7 +31,7 @@ publication_types: ["2"]
 publication: In *Springer Personal and Ubiquitous Computing*
 publication_short: In *Personal and Ubiquitous Computing*
 
-abstract: Recognizing users’ daily life activities without disrupting their lifestyle is a key functionality to enable a broad variety of advanced services for a Smart City, from energy-efficient management of urban spaces to mobility optimization. In this paper, we propose a novel method for human activity recognition from a collection of outdoor mobility traces acquired through wearable devices. Our method exploits the regularities naturally present in human mobility patterns to construct syntactic models in the form of finite state automata, thanks to an approach known as grammatical inference. We also introduce a measure of similarity that accounts for the intrinsic hierarchical nature of such models, and allows to identify the common traits in the paths induced by different activities at various granularity levels. Our method has been validated on a dataset of real traces representing movements of users in a large metropolitan area. The experimental results show the effectiveness of our similarity measure to correctly identify a set of common coarse-grained activities, as well as their refinement at a finer level of granularity.
+abstract: The wearable devices market has been growing exponentially in the last few years and it is expected to count up to 930 million devices by the end of 2021. A common application of wearable devices is Human Activity Recognition (HAR), i.e., the ability of using the sensing capabilities of these devices to monitor and infer human activities. However, Animal Activity Recognition (AAR) has received significantly less attention, and most works on AAR are generally based on invasive specialized devices carried by or implanted on animals. Conversely, in this work we exploit the potential of portable and unobtrusive devices, namely smartwatches, for AAR and specifically for horse gaits recognition. This application finds natural use in horse riding, to improve the structure and balance of the horse work and training. We develop a framework that can be used in a fog computing system composed by a smartphone and a smartwatch for the recognition of horse gaits. The framework performs classification by means of a machine learning approach trained on ad-hoc features based on accelerometer data. The framework allows an offline and an online modes of operation. In the offline mode, the smartwatch is used to collect the accelerometer data and transfer it to the smartphone at the end of the riding session. The feature extraction and classification can be processed directly on the smartphone or offloaded to the cloud. Conversely, in the online mode, the smartwatch is responsible to collect and process the data, thus being able to provide real-time feedback to the rider. This modality also allows to reduce computation, storage, and energy burden on the smartwatch through an adaptive setting of the sampling frequency. We implement our approach on a system composed by a Fitbit Ionic smartwatch and a Samsung Galaxy S10. We use two horses to evaluate the performance, versus recently proposed AAR approaches. Results show that our framework achieves significantly higher classification accuracy. Furthermore, the online scheme enables flexible real-time feedback, at the expense of a small loss in the classification accuracy.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -58,10 +57,10 @@ featured: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-# image:
-#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-#   focal_point: ""
-#   preview_only: false
+image:
+  caption: 'Image credit: '
+  focal_point: ""
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -70,8 +69,8 @@ featured: false
 #   Otherwise, set `projects: []`.
 
 # to add this in other pages:
-# projects:
-# - example
+projects:
+# - 2animals
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

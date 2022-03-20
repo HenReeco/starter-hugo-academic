@@ -29,7 +29,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2017-01-01"
-  description: "SMARTCOMP, WoWMoM, GLOBECOM, WiMob, LCN, ICC, IWQoS, DCOSS, COMSNETS"
+  description: "SMARTCOMP, WoWMoM, GLOBECOM, WiMob, LCN, ICC, IWQoS, DCOSS, COMSNETS, ICDCS"
   organization: ""
   organization_url: ""
   title: Paper reviews for
@@ -53,10 +53,10 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2021-08-01"
-  description: "for Graduate Student Association of Computer Science (GSACS)"
+  description: "Graduate Student Association of Computer Science (GSACS)"
   organization: "University of Kentucky"
   organization_url: ""
-  title: Representative position
+  title: Representative
   url: ""
 design:
   columns: '1'
