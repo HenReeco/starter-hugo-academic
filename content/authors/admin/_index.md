@@ -28,6 +28,9 @@ education:
   # - course: PhD in Artificial Intelligence
   #   institution: Stanford University
   #   year: 2012
+  - course: PhD in Computer Science
+    institution: University of Kentucky
+    year: Present
   - course: MEng in Computer Engineering
     institution: Università degli studi di Palermo
     year: 2018
@@ -70,6 +73,6 @@ email: ""
 highlight_name: true
 ---
 
-I'm a fourth year Ph.D. Candidate conducting main research on smart grids and development of machine learning techniques for power conservation. I also conduct research on reinforcement learning-based computing offloading in fog computing. And I provide CS expertise on animal health care prevention. I supervise undergraduate research for students in CPSlab.
+I'm a fourth year Ph.D. Candidate conducting research on smart grids and development of machine learning techniques for power conservation. I provide data analysis expertise on animal health care prevention along with the development of ad-hoc algorithms. Additionally, I supervise undergraduate research for students in CPSlab. I aim to build a resume that allows me to pursue a career in academia.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "/uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

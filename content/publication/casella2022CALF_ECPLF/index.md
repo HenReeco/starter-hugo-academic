@@ -1,5 +1,5 @@
 ---
-title: "Smartwatch application for horse gaits activity recognition"
+title: "Using machine learning and precision livestock farming technology for early indication of health status in preweaned dairy calves"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -7,19 +7,22 @@ title: "Smartwatch application for horse gaits activity recognition"
 authors:
 - admin
 other authors:
-- Atieh R. Khamesi
+- M. C. Cantor
 - Simone Silvestri
+- D. L. Renaud
+- J. H. C. Costa
 
 # Author notes (optional)
 author_notes:
-- "First author"
+# - "First author"
 # - "Equal contribution"
+- "Second author"
 
-date: "2019-06-12T00:00:00Z"
-doi: "https://doi.org/10.1109/SMARTCOMP.2019.00080"
+date: "2022-03-19T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-06-12T00:00:00Z"
+publishDate: "2022-03-19T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,10 +31,10 @@ publishDate: "2019-06-12T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the IEEE International Conference on Smart Computing (SMARTCOMP), 2019*
-publication_short: In *Proceedings of the IEEE International Conference on Smart Computing (SMARTCOMP), 2019*
+publication: In *Proceedings of the European Conference on Precision Livestock Farming (ECPLF), 2022*
+publication_short: In *Proceedings of the European Conference on Precision Livestock Farming (ECPLF), 2022*
 
-abstract: Activity recognition has been introduced as a means of detecting an action from a series of observations. Although in the literature, the terms “activity recognition” and “human activity recognition” are mostly used interchangeably, there exist several interesting applications for non-human subjects. In this work, we study animal activity recognition with special focus on horse gaits recognition. The on-body and unobtrusive system developed in this paper has several potential applications which can raise attention towards financial, emotional and veterinary health issues related to animals. Leveraging the pervasive use of smartwatches for activity tracking, we develop a smartwatch application to collect accelerometer data. The application is based on novel outlier detection and feature extraction techniques, in conjunction with state-of-the-art machine learning approaches. We perform real life experiments with two horses to evaluate the performances of our proposed system. To this aim, we place the monitoring device both on the horse saddle and the rider’s wrist. The results show a high accuracy in both scenarios, which allows a seamless and unobtrusive use of our wearable device application by the rider. In addition, we study the effects of sliding window size and sampling frequency, providing useful insights for future research in horse gaits recognition.
+abstract: 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -58,7 +61,7 @@ featured: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit'
+  caption: 'Image credit: '
   focal_point: ""
   preview_only: false
 

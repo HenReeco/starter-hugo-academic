@@ -27,36 +27,52 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: ""
-  date_end: ""
+  date_end: "2022-12-31"
   date_start: "2017-01-01"
-  description: "SMARTCOMP, WoWMoM, GLOBECOM, WiMob, LCN, ICC, IWQoS, DCOSS, COMSNETS, ICDCS"
+  description: "ICDCS, GLOBECOM, SMARTCOMP, WoWMoM, WiMob, LCN, ICC, IWQoS, DCOSS, COMSNETS, SmartSys"
   organization: ""
   organization_url: ""
-  title: Paper reviews for
+  title: Conference paper reviews for
   url: ""
 - certificate_url: ""
-  date_end: "2020-10-01"
-  date_start: "2020-09-27"
-  description: ""
+  date_end: "2022-12-31"
+  date_start: "2021-01-01"
+  description: "Pervasive and Mobile Computing; Sustainable Energy, Grids, and Networks; Reliable Intelligent Environments"
   organization: ""
   organization_url: ""
-  title: TPC member INFOCOMP 2020
+  title: Journal paper reviews for
   url: ""
 - certificate_url: ""
-  date_end: ""
-  date_start: "2021-08-01"
+  date_end: "2023-01-08"
+  date_start: "2020-10-01"
+  description: "INFOCOMP 2020, ICDCN 2023"
+  organization: ""
+  organization_url: ""
+  title: TPC member
+  url: ""
+- certificate_url: ""
+  date_end: "2022-05-27"
+  date_start: "2021-09-01"
   description: "Mental Health Committee"
   organization: "University of Kentucky"
   organization_url: ""
   title: Graduate Student Congress Member
   url: ""
 - certificate_url: ""
-  date_end: ""
+  date_end: "2022-05-26"
   date_start: "2021-08-01"
   description: "Graduate Student Association of Computer Science (GSACS)"
   organization: "University of Kentucky"
   organization_url: ""
   title: Representative
+  url: ""
+- certificate_url: ""
+  date_end: "2023-05-26"
+  date_start: "2022-05-27"
+  description: "Graduate Student Association of Computer Science (GSACS)"
+  organization: "University of Kentucky"
+  organization_url: ""
+  title: President
   url: ""
 design:
   columns: '1'

@@ -22,17 +22,17 @@ twitter: ''
 
 email: enrico.casella@uky.edu
 # phone: 888 888 88 88
-address:
-  street: 329 Rose Street
-  city: Lexington
-  region: KY
-  postcode: '40506'
-  country: United States
-  country_code: US
+# address:
+#   street: 329 Rose Street
+#   city: Lexington
+#   region: KY
+#   postcode: '40506'
+#   country: United States
+#   country_code: US
 # coordinates:
 #   latitude: '37.4275'
 #   longitude: '-122.1697'
-directions: Davis Marksbury Building - Lab 204
+# directions: Davis Marksbury Building - Lab 204
 # office_hours:
 #   - 'Monday 10:00 to 13:00'
 #   - 'Wednesday 09:00 to 10:00'

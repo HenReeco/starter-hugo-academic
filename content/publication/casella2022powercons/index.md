@@ -29,10 +29,10 @@ publishDate: "2022-03-19T00:01:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *The 8th International Conference on Smart Computing (SMARTCOMP)*
-publication_short: In *SMARTCOMP (submitted only)*
+publication: In *IEEE International Conference on Smart Computing (SMARTCOMP) 2022 - WiP*
+publication_short: In *IEEE International Conference on Smart Computing (SMARTCOMP) 2022 - WiP*
 
-abstract: Not yet available
+abstract: The growth and widespread diffusion of Internet-of-Things devices and advanced metering infrastructure allows to closely monitor appliances in a user home. Although only few works have focused on the issue of individual home power consumption predictions, recent efforts have unveiled the complexity of this task. As opposed to building-level power predictions, the finer granularity of single home predictions is characterized by the high impact that individual user actions have on the power consumption. As a matter of fact, the current state of the art shows inadequate prediction performance. In this work, we investigate the issue of single home power prediction by analyzing a recent dataset of real power consumption data. We carry out a profound analysis of several processing parameters and environmental parameters that make this task so challenging, thus providing meaningful insights that can guide future research on individual home power consumption predictions. Results show an overall low daily error, and very accurate hourly predictions when less variable usage patterns occur.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
