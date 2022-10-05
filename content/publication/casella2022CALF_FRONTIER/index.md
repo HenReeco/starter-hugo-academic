@@ -31,8 +31,8 @@ publishDate: "2022-03-19T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Frontiers in Animal Science, 2022 (to appear)*
-publication_short: In *Frontiers in Animal Science, 2022 (to appear)*
+publication: In *Frontiers in Animal Science, 2022*
+publication_short: In *Frontiers in Animal Science, 2022*
 
 abstract: 
 

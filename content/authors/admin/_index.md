@@ -73,6 +73,6 @@ email: ""
 highlight_name: true
 ---
 
-I'm a fourth year Ph.D. Candidate conducting research on smart grids and development of machine learning techniques for power conservation. I provide data analysis expertise on animal health care prevention along with the development of ad-hoc algorithms. Additionally, I supervise undergraduate research for students in CPSlab. I aim to build a resume that allows me to pursue a career in academia.
+I'm a fifth year Ph.D. Candidate conducting research on power conservation systems in smart grids employing auction theory and machine learning techniques. I also focus on algorithms for the prediction of respiratory disease in dairy calves. Additionally, I supervise undergraduate research for students in CPSlab, and I am the President of GSACS (Graduate Student Association of Computer Science).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "/uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

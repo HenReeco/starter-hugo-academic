@@ -14,17 +14,17 @@ main:
     url: '#publications'
     weight: 30
   - name: Services
-    url: '#services'
+    url: '#accomplishments'
     weight: 40
   - name: Awards
     url: '#awards'
     weight: 50
-  # - name: Projects
-  #   url: '#projects'
-  #   weight: 40
   - name: Contact
     url: '#contact'
     weight: 60
+  # - name: Projects
+  #   url: '#projects'
+  #   weight: 40
 #  - name: CV
 #    url: uploads/resume.pdf
 #    weight: 70

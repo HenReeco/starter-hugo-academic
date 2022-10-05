@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 20
 
 title: Experience
 subtitle:
@@ -68,7 +68,7 @@ experience:
     company: Missouri University of Science and Technology - Computer Science Department
     company_url: 'https://cs.mst.edu'
     company_logo: mst
-    location: Missorui
+    location: Missouri
     date_start: '2017-03-01'
     date_end: '2017-09-30'
     description: |2-

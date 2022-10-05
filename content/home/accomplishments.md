@@ -9,10 +9,10 @@ headless: true
 # active: false
 
 # Order that this section appears on the page.
-weight: 50
+weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-# title: 'Accomplish&shy;ments'
+# title: 'Accomplishments'
 title: 'Services'
 subtitle:
 
@@ -34,6 +34,7 @@ item:
   organization_url: ""
   title: Conference paper reviews for
   url: ""
+
 - certificate_url: ""
   date_end: "2022-12-31"
   date_start: "2021-01-01"
@@ -42,6 +43,7 @@ item:
   organization_url: ""
   title: Journal paper reviews for
   url: ""
+
 - certificate_url: ""
   date_end: "2023-01-08"
   date_start: "2020-10-01"
@@ -50,30 +52,43 @@ item:
   organization_url: ""
   title: TPC member
   url: ""
+
 - certificate_url: ""
   date_end: "2022-05-27"
   date_start: "2021-09-01"
   description: "Mental Health Committee"
-  organization: "University of Kentucky"
-  organization_url: ""
+  organization: "GSC at University of Kentucky"
+  organization_url: "https://www.uky.edu/gsc/"
   title: Graduate Student Congress Member
   url: ""
+
 - certificate_url: ""
   date_end: "2022-05-26"
   date_start: "2021-08-01"
   description: "Graduate Student Association of Computer Science (GSACS)"
-  organization: "University of Kentucky"
-  organization_url: ""
+  organization: "GSACS at University of Kentucky"
+  organization_url: "http://gsacs.engr.uky.edu"
   title: Representative
-  url: ""
+  url: "http://gsacs.engr.uky.edu/members"
+
 - certificate_url: ""
   date_end: "2023-05-26"
   date_start: "2022-05-27"
   description: "Graduate Student Association of Computer Science (GSACS)"
-  organization: "University of Kentucky"
-  organization_url: ""
+  organization: "GSACS at University of Kentucky"
+  organization_url: "http://gsacs.engr.uky.edu"
   title: President
+  url: "http://gsacs.engr.uky.edu/members"
+
+- certificate_url: ""
+  date_end: "2022-12-31"
+  date_start: "2022-01-01"
+  description: "CS 371, CS 686"
+  organization: ""
+  organization_url: ""
+  title: Guest lectures for
   url: ""
+
 design:
   columns: '1'
 ---
