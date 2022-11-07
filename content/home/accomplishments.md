@@ -26,23 +26,6 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: ""
-  date_end: "2022-12-31"
-  date_start: "2017-01-01"
-  description: "ICDCS, GLOBECOM, SMARTCOMP, WoWMoM, WiMob, LCN, ICC, IWQoS, DCOSS, COMSNETS, SmartSys"
-  organization: ""
-  organization_url: ""
-  title: Conference paper reviews for
-  url: ""
-
-- certificate_url: ""
-  date_end: "2022-12-31"
-  date_start: "2021-01-01"
-  description: "Pervasive and Mobile Computing; Sustainable Energy, Grids, and Networks; Reliable Intelligent Environments"
-  organization: ""
-  organization_url: ""
-  title: Journal paper reviews for
-  url: ""
 
 - certificate_url: ""
   date_end: "2023-01-08"
@@ -52,6 +35,42 @@ item:
   organization_url: ""
   title: TPC member
   url: ""
+
+- certificate_url: ""
+  date_end: "2022-12-31"
+  date_start: "2017-01-01"
+  description: "ICDCS, GLOBECOM, SmartSys, DCOSS,  COMSNETS, SMARTCOMP, WoWMoM, WiMob, LCN, ICC, IWQoS"
+  organization: ""
+  organization_url: ""
+  title: Conference paper reviews for
+  url: ""
+
+- certificate_url: ""
+  date_end: "2022-12-31"
+  date_start: "2021-01-01"
+  description: "IEEE ACCESS; IEEE Internet of Things; IEEE Human-Machine Systems; Elsevier Pervasive and Mobile Computing; Elsevier Ad-hoc Networks; Elsevier Sustainable Energy, Grids, and Networks; Springer Reliable Intelligent Environments"
+  organization: ""
+  organization_url: ""
+  title: Journal paper reviews for
+  url: ""
+
+- certificate_url: ""
+  date_end: "2022-12-31"
+  date_start: "2022-01-01"
+  description: "CS 371, CS 686"
+  organization: ""
+  organization_url: ""
+  title: Guest lectures for
+  url: ""
+
+- certificate_url: ""
+  date_end: "2023-05-26"
+  date_start: "2022-05-27"
+  description: "Graduate Student Association of Computer Science (GSACS)"
+  organization: "GSACS at University of Kentucky"
+  organization_url: "http://gsacs.engr.uky.edu"
+  title: President
+  url: "http://gsacs.engr.uky.edu/members"
 
 - certificate_url: ""
   date_end: "2022-05-27"
@@ -70,24 +89,6 @@ item:
   organization_url: "http://gsacs.engr.uky.edu"
   title: Representative
   url: "http://gsacs.engr.uky.edu/members"
-
-- certificate_url: ""
-  date_end: "2023-05-26"
-  date_start: "2022-05-27"
-  description: "Graduate Student Association of Computer Science (GSACS)"
-  organization: "GSACS at University of Kentucky"
-  organization_url: "http://gsacs.engr.uky.edu"
-  title: President
-  url: "http://gsacs.engr.uky.edu/members"
-
-- certificate_url: ""
-  date_end: "2022-12-31"
-  date_start: "2022-01-01"
-  description: "CS 371, CS 686"
-  organization: ""
-  organization_url: ""
-  title: Guest lectures for
-  url: ""
 
 design:
   columns: '1'

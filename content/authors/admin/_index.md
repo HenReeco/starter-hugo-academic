@@ -18,9 +18,9 @@ bio: PhD candidate conducting research on smart grids and power conservation, pr
 
 # Interests to show in About widget
 interests:
-- Smart grids and renewable energy
-- Animal health care prevention
-- Fog Computing
+- Smart grids and energy management
+- Precision farming and inference of bovine respiratory disease
+- Smart farming and prediction of crop yield
 
 # Education to show in About widget
 education:
@@ -64,7 +64,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: uploads/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -73,6 +73,6 @@ email: ""
 highlight_name: true
 ---
 
-I'm a fifth year Ph.D. Candidate conducting research on power conservation systems in smart grids employing auction theory and machine learning techniques. I also focus on algorithms for the prediction of respiratory disease in dairy calves. Additionally, I supervise undergraduate research for students in CPSlab, and I am the President of GSACS (Graduate Student Association of Computer Science).
+I'm a fifth year Ph.D. Candidate conducting research on power conservation systems in smart grids employing auction theory and machine learning techniques. I also focus on algorithms for the inference of bovine respiratory disease in dairy calves using precision sensor technologies, as well as the prediction of soy bean crop yield. Additionally, I supervise graduate and undergraduate students in CPSlab, and I am the President of the Graduate Student Association of Computer Science (GSACS) at University of Kentucky.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "/uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
