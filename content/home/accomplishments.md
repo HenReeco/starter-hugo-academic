@@ -28,16 +28,16 @@ date_format: Jan 2006
 item:
 
 - certificate_url: ""
-  date_end: "2023-01-08"
+  date_end: "2023-12-31"
   date_start: "2020-10-01"
-  description: "INFOCOMP 2020, ICDCN 2023"
+  description: "INFOCOMP 2020, ICDCN2022, ICDCN 2023"
   organization: ""
   organization_url: ""
   title: TPC member
   url: ""
 
 - certificate_url: ""
-  date_end: "2022-12-31"
+  date_end: "2023-12-31"
   date_start: "2017-01-01"
   description: "ICDCS, GLOBECOM, SmartSys, DCOSS,  COMSNETS, SMARTCOMP, WoWMoM, WiMob, LCN, ICC, IWQoS"
   organization: ""
@@ -46,9 +46,9 @@ item:
   url: ""
 
 - certificate_url: ""
-  date_end: "2022-12-31"
+  date_end: "2023-12-31"
   date_start: "2021-01-01"
-  description: "IEEE ACCESS; IEEE Internet of Things; IEEE Human-Machine Systems; Elsevier Pervasive and Mobile Computing; Elsevier Ad-hoc Networks; Elsevier Sustainable Energy, Grids, and Networks; Springer Reliable Intelligent Environments"
+  description: "IEEE Transaction on Mobile Computing; IEEE ACCESS; IEEE Internet of Things; IEEE Human-Machine Systems; Elsevier Pervasive and Mobile Computing; Elsevier Ad-hoc Networks; Elsevier Sustainable Energy, Grids, and Networks; Springer Reliable Intelligent Environments"
   organization: ""
   organization_url: ""
   title: Journal paper reviews for
@@ -57,7 +57,7 @@ item:
 - certificate_url: ""
   date_end: "2022-12-31"
   date_start: "2022-01-01"
-  description: "CS 371, CS 686"
+  description: "CS 371 (Machine Learning Principles), CS 686 (Linear programming)"
   organization: ""
   organization_url: ""
   title: Guest lectures for
@@ -89,6 +89,15 @@ item:
   organization_url: "http://gsacs.engr.uky.edu"
   title: Representative
   url: "http://gsacs.engr.uky.edu/members"
+
+- certificate_url: ""
+  date_end: "2022-11-02"
+  date_start: "2021-10-30"
+  description: "Student volunteer at the conference and tech support for virtual attendees"
+  organization: "IEEE International Conference on Network Protocols (ICNP) 2022"
+  organization_url: "https://icnp22.cs.ucr.edu"
+  title: Student volunteer
+  url: ""
 
 design:
   columns: '1'

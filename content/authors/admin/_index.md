@@ -73,6 +73,12 @@ email: ""
 highlight_name: true
 ---
 
-I'm a fifth year Ph.D. Candidate conducting research on power conservation systems in smart grids employing auction theory and machine learning techniques. I also focus on algorithms for the inference of bovine respiratory disease in dairy calves using precision sensor technologies, as well as the prediction of soy bean crop yield. Additionally, I supervise graduate and undergraduate students in CPSlab, and I am the President of the Graduate Student Association of Computer Science (GSACS) at University of Kentucky.
+I'm a fifth year Ph.D. Candidate conducting research on AI-powered cyber-physical systems. I focus on several projects including power conservation systems in the context smart grids and inference of bovine respiratory disease in the context of precision farming. My technical background includes, among others, data analysis, machine learning pipelines, optimization techniques, and algorithm design. Additionally, I supervise graduate and undergraduate students in CPSlab, led by 
+{{< staticref "http://silvestri.engr.uky.edu" "newtab" >}}Dr. Silvestri{{< /staticref >}}
+, and I am the President of the Graduate Student Association of Computer Science (GSACS) at University of Kentucky.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "/uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- employing auction theory and machine learning techniques. I also focus on algorithms for  using precision sensor technologies, as well as the prediction of soy bean crop yield.  -->
+
+Currently looking for a postdoc position starting Summer 2023.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "/uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} or my {{< staticref "/uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.

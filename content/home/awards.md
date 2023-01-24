@@ -30,17 +30,33 @@ item:
   date_end: "2020-10-16"
   date_start: "2020-10-12"
   description: "The Center for Computational Sciences along with ITS Research Computing Infrastructure hosts a panel focused on Data Science challenges, new exciting computational project and opportunities in Research and Education"
-  organization: ""
+  organization: "The University of Kentucky's Center for Computational Sciences (CCS) and Information Technology Services - Research Computing Infrastructure (ITS-RCI)"
+  organization_url: "https://summit.ccs.uky.edu/ccs_summit2020/"
+  title: Commonwealth Computational Summit Winner receives free registration to SuperComputing 2020
+  url: ""
+- certificate_url: ""
+  date_end: "2022-04-30"
+  date_start: "2022-04-29"
+  description: "The award represents recognition for very high achievement and excellence, with a promising career in academia"
+  organization: "Graduate Student Association of Computer Science"
   organization_url: ""
-  title: Commonwealth Computational Summit Winner
+  title: Initiative Award
   url: ""
 - certificate_url: ""
   date_end: "2022-05-31"
   date_start: "2022-05-01"
-  description: "The award represents recognition for very high achievement and excellence, with a promising career in academia"
-  organization: ""
+  description: "The award represents recognition to outstanding students with proven records of academic achievement"
+  organization: "College of Engineering"
   organization_url: ""
   title: Recipient of Thaddeus B. Curtz Memorial Scholarship
+  url: ""
+- certificate_url: ""
+  date_end: "2022-11-02"
+  date_start: "2022-11-02"
+  description: "6th Annual Commonwealth Computational Summit"
+  organization: "The University of Kentucky's Center for Computational Sciences (CCS)"
+  organization_url: "https://summit.ccs.uky.edu/ccs_summit/"
+  title: Commonwealth Computational Summit Winner receives a paid trip to SuperComputing 2022 in Dallas, TX
   url: ""
 design:
   columns: '1'
