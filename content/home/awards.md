@@ -58,6 +58,31 @@ item:
   organization_url: "https://summit.ccs.uky.edu/ccs_summit/"
   title: Commonwealth Computational Summit Winner receives a paid trip to SuperComputing 2022 in Dallas, TX
   url: ""
+- certificate_url: ""
+  date_end: "2023-04-01"
+  date_start: "2023-04-01"
+  description: "Best paper of the year in the Computer Science Department"
+  organization: "Computer Science Department at University of Kentucky"
+  # organization_url: "https://summit.ccs.uky.edu/ccs_summit/"
+  title: Best Paper Award
+  url: ""
+- certificate_url: ""
+  date_end: "2023-04-01"
+  date_start: "2023-04-01"
+  description: "Most successful Graduate Student of the year in the Computer Science Department"
+  organization: "Computer Science Department at University of Kentucky"
+  # organization_url: "https://summit.ccs.uky.edu/ccs_summit/"
+  title: Outstanding Graduate Student Award
+  url: ""
+- certificate_url: ""
+  date_end: "2023-05-31"
+  date_start: "2023-05-30"
+  description: "This workshop aims to identify and mentor outstanding PhD students and postdocs who are interested in pursuing academic careers in Cyber-Physical Systems (CPS) related areas"
+  organization: "University of Virginia"
+  # organization_url: "https://summit.ccs.uky.edu/ccs_summit/"
+  title: CPS Rising Stars Workshop Awardee
+  url: ""
+
 design:
   columns: '1'
 ---

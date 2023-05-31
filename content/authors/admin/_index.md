@@ -6,7 +6,7 @@ title: Enrico Casella
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.engr.uky.edu/research-faculty/departments/computer-science
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD candidate conducting research on smart grids and power conservation, providing CS expertise in cross-field projects and supervising undergrad research.
+bio: I am an inter-disciplinary scientist with a PhD in Computer Science, focusing on AI-powered Cyber-Physical Systems
 
 # Interests to show in About widget
 interests:
@@ -30,7 +30,7 @@ education:
   #   year: 2012
   - course: PhD in Computer Science
     institution: University of Kentucky
-    year: Present
+    year: 2023
   - course: MEng in Computer Engineering
     institution: Università degli studi di Palermo
     year: 2018
@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:enrico.casella@uky.edu'
+  link: 'mailto:enricocasella1@gmail.com'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -73,12 +73,12 @@ email: ""
 highlight_name: true
 ---
 
-I'm a fifth year Ph.D. Candidate conducting research on AI-powered cyber-physical systems. I focus on several projects including power conservation systems in the context smart grids and inference of bovine respiratory disease in the context of precision farming. My technical background includes, among others, data analysis, machine learning pipelines, optimization techniques, and algorithm design. Additionally, I supervise graduate and undergraduate students in CPSlab, led by 
-{{< staticref "http://silvestri.engr.uky.edu" "newtab" >}}Dr. Silvestri{{< /staticref >}}
-, and I am the President of the Graduate Student Association of Computer Science (GSACS) at University of Kentucky.
+I am an inter-disciplinary scientist with a PhD in Computer Science, focusing on AI-powered Cyber-Physical Systems. I am currently a postdoctoral research associate at University of Wisconsin-Madison in the Animal Science Department led by Dr. Dorea. I work at the intersection of Cyber-Physical Systems and AI coupled with optimization techniques and algorithm design in order to achieve domain-specific objectives. Thus, I focus on accurate modeling of the system objectives, tradeoff analysis, and efficient data computation from heterogeneous and distributed sources.
+<!-- , with a specific focus on the optimization of farm management decisions and improvement of animal nutrition and health.  -->
+I have provided my computer science expertise and knowledge in several heterogenous domains and inter-disciplinary environments, thus collaborating with electrical engineers, psychological scientists, agricultural engineers, and animal scientists.
 
 <!-- employing auction theory and machine learning techniques. I also focus on algorithms for  using precision sensor technologies, as well as the prediction of soy bean crop yield.  -->
 
-Currently looking for a postdoc position starting Summer 2023.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "/uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+<!-- my {{< staticref "/uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} or  -->
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "/uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} or my {{< staticref "/uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
