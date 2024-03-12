@@ -23,13 +23,22 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: Assistant Professor of Data Science
+    company: Pennsylvania State University - Animal Science Department
+    company_url: 'https://animalscience.psu.edu/'
+    company_logo: psu
+    location: State College, PA
+    date_start: '2024-07-01'
+    date_end: ''
+
+
   - title: Postdoctoral Research Associate
     company: University of Wisconsin-Madison - Animal Science Department
     company_url: 'https://www.wisc.edu/'
     company_logo: uw
     location: Madison, WI
     date_start: '2023-06-23'
-    date_end: ''
+    date_end: '2024-06-18'
 
   - title: Research Assitant
     company: University of Kentucky - Computer Science Department
@@ -42,7 +51,7 @@ experience:
         Responsibilities include:
         
         * Smart Grids
-        * Animal Health Care
+        * Animal Health
         * Fog Computing
         
 

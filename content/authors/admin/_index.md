@@ -10,17 +10,17 @@ role: Postdoctoral Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Kentucky
-  url: https://www.engr.uky.edu/research-faculty/departments/computer-science
+- name: University of Wisconsin-Madison
+  url: https://andysci.wisc.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an inter-disciplinary scientist with a PhD in Computer Science, focusing on AI-powered Cyber-Physical Systems
+bio: Inter-disciplinary computer scientist with a focus on Artificial Intelligence and Computer Vision applications for animal systems.
 
 # Interests to show in About widget
 interests:
-- Smart grids and energy management
-- Precision farming and inference of bovine respiratory disease
-- Smart farming and prediction of crop yield
+- Precision livestock technology
+- Body growth and development in cattle
+- Privacy-preserving data sharing for farms
 
 # Education to show in About widget
 education:
@@ -73,11 +73,10 @@ email: ""
 highlight_name: true
 ---
 
-I am an inter-disciplinary scientist with a PhD in Computer Science, focusing on AI-powered Cyber-Physical Systems. I am currently a postdoctoral research associate at University of Wisconsin-Madison in the Animal Science Department led by Dr. Dorea. I work at the intersection of Cyber-Physical Systems and AI coupled with optimization techniques and algorithm design in order to achieve domain-specific objectives. Thus, I focus on accurate modeling of the system objectives, tradeoff analysis, and efficient data computation from heterogeneous and distributed sources.
-<!-- , with a specific focus on the optimization of farm management decisions and improvement of animal nutrition and health.  -->
-I have provided my computer science expertise and knowledge in several heterogenous domains and inter-disciplinary environments, thus collaborating with electrical engineers, psychological scientists, agricultural engineers, and animal scientists.
+I am a computer scientist with a strong interdisciplinary background. My research applies artificial intelligence (AI) to complex systems within the animal science domain, such as animal health and growth, as well as beyond the animal science domain, for instance in electric grid optimization.
+Previously, I developed AI-based methods for data analysis and optimization from heterogeneous sensor data, balancing accuracy with financial considerations. Currently, my work focuses on computer vision (CV) based solutions. I am building a CV tool to predict body weight of the animal as well as future body weight a few weeks in advance, and another to monitor mammary gland development in dairy cows, which can be used to correlate it with milk production. Additionally, they are exploring privacy-preserving prediction tools using federated learning.
 
-<!-- employing auction theory and machine learning techniques. I also focus on algorithms for  using precision sensor technologies, as well as the prediction of soy bean crop yield.  -->
+I am looking for talents with computer science background. Open positions for 1 PhD student, 1 Postdoc, and visiting scholars.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "/uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
 <!-- my {{< staticref "/uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} or  -->
