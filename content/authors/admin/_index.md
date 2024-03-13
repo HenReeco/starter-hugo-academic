@@ -73,7 +73,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a computer scientist with a strong interdisciplinary background. My research applies artificial intelligence (AI) to complex systems, primarily within the animal science domain and agriculture.
+I am a computer scientist with a strong interdisciplinary background. My research applies artificial intelligence (AI) to complex systems, primarily within the animal science domain.
 My expertise includes AI-based methods for data analysis and optimization from heterogeneous sensor data, balancing accuracy and financial implications. My recent work explores computer vision solutions for animal health, growth, and development, as well as privacy-preserving solutions using federated learning.
 <!-- 
 Previously, I developed AI-based methods for data analysis and optimization from heterogeneous sensor data, balancing accuracy with financial considerations. Currently, my work focuses on computer vision (CV) based solutions. I am building a CV tool to predict body weight of the animal as well as future body weight a few weeks in advance, and another to monitor mammary gland development in dairy cows, which can be used to correlate it with milk production. Additionally, they are exploring privacy-preserving prediction tools using federated learning. -->
