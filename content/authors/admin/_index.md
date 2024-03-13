@@ -73,10 +73,12 @@ email: ""
 highlight_name: true
 ---
 
-I am a computer scientist with a strong interdisciplinary background. My research applies artificial intelligence (AI) to complex systems within the animal science domain, such as animal health and growth, as well as beyond the animal science domain, for instance in electric grid optimization.
-Previously, I developed AI-based methods for data analysis and optimization from heterogeneous sensor data, balancing accuracy with financial considerations. Currently, my work focuses on computer vision (CV) based solutions. I am building a CV tool to predict body weight of the animal as well as future body weight a few weeks in advance, and another to monitor mammary gland development in dairy cows, which can be used to correlate it with milk production. Additionally, they are exploring privacy-preserving prediction tools using federated learning.
+I am a computer scientist with a strong interdisciplinary background. My research applies artificial intelligence (AI) to complex systems, primarily within the animal science domain and agriculture.
+My expertise includes AI-based methods for data analysis and optimization from heterogeneous sensor data, balancing accuracy and financial implications. My recent work explores computer vision solutions for animal health, growth, and development, as well as privacy-preserving solutions using federated learning.
+<!-- 
+Previously, I developed AI-based methods for data analysis and optimization from heterogeneous sensor data, balancing accuracy with financial considerations. Currently, my work focuses on computer vision (CV) based solutions. I am building a CV tool to predict body weight of the animal as well as future body weight a few weeks in advance, and another to monitor mammary gland development in dairy cows, which can be used to correlate it with milk production. Additionally, they are exploring privacy-preserving prediction tools using federated learning. -->
 
-I am looking for talents with computer science background. Open positions for 1 PhD student, 1 Postdoc, and visiting scholars.
+I am looking for talents with strong interest and significant background in computer science at the Animal Science Department of Pennsylvania State University: 1 PhD student, 1 Postdoc, and visiting scholars.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "/uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
 <!-- my {{< staticref "/uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} or  -->

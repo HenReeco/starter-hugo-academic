@@ -30,7 +30,7 @@ item:
 - certificate_url: ""
   date_end: "2023-12-31"
   date_start: "2020-10-01"
-  description: "INFOCOMP 2020, ICDCN2022, ICDCN 2023"
+  description: "INFOCOMP 2020, ICDCN2022, ICDCN 2023, ICDCS 2024"
   organization: ""
   organization_url: ""
   title: TPC member
