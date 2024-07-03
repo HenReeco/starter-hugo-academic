@@ -16,7 +16,7 @@ author_notes:
 # - "Equal contribution"
 
 date: "2020-09-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.pmcj.2020.101213"
+doi: "https://doi.org/10.1007/s00779-019-01319-9"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-09-01T00:00:00Z"
