@@ -6,21 +6,21 @@ title: Enrico Casella
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Research Associate
+role: Assistant Professor of Data Science for Animal Systems
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Wisconsin-Madison
-  url: https://andysci.wisc.edu/
+- name: The Pennsylvania State University
+  url: https://animalscience.psu.edu/directory/ebc5564
 
 # Short bio (displayed in user profile at end of posts)
-bio: Inter-disciplinary computer scientist with a focus on Artificial Intelligence and Computer Vision applications for animal systems.
+bio: Multi-disciplinary computer scientist with a focus on Artificial Intelligence and Computer Vision applications for animal systems.
 
 # Interests to show in About widget
 interests:
+- Applied Artificial Intelligence
+- Internet of Things
 - Precision livestock technology
-- Body growth and development in cattle
-- Privacy-preserving data sharing for farms
 
 # Education to show in About widget
 education:
@@ -28,6 +28,9 @@ education:
   # - course: PhD in Artificial Intelligence
   #   institution: Stanford University
   #   year: 2012
+  - course: Postdoctoral Research Assistant
+    institution: University of Wisconsin-Madison
+    year: 2024
   - course: PhD in Computer Science
     institution: University of Kentucky
     year: 2023
@@ -45,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:enricocasella1@gmail.com'
+  link: 'mailto:casella@psu.edu'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -73,10 +76,12 @@ email: ""
 highlight_name: true
 ---
 
-I am a computer scientist with a strong interdisciplinary background. My research applies artificial intelligence (AI) to complex systems, primarily within the animal science domain.
-My expertise includes AI-based methods for data analysis and optimization from heterogeneous sensor data, balancing accuracy and financial implications. My recent work explores computer vision solutions for animal health, growth, and development, as well as privacy-preserving solutions using federated learning.
+<!-- I am a computer scientist with a strong interdisciplinary background. My research applies artificial intelligence (AI) to complex systems, primarily within the animal science domain.
+My expertise includes AI-based methods for data analysis and optimization from heterogeneous sensor data, balancing accuracy and financial implications. My recent work explores computer vision solutions for animal health, growth, and development, as well as privacy-preserving solutions using federated learning. -->
 <!-- 
 Previously, I developed AI-based methods for data analysis and optimization from heterogeneous sensor data, balancing accuracy with financial considerations. Currently, my work focuses on computer vision (CV) based solutions. I am building a CV tool to predict body weight of the animal as well as future body weight a few weeks in advance, and another to monitor mammary gland development in dairy cows, which can be used to correlate it with milk production. Additionally, they are exploring privacy-preserving prediction tools using federated learning. -->
+
+Dr. Enrico Casella is a computer scientist with a highly multi-disciplinary background. His research applies Artificial Intelligence (AI) to complex systems, primarily within the animal science domain. His expertise includes AI-based methods for data analysis and optimization from heterogeneous sensor data. His most recent work focuses on computer vision solutions for animal health, growth and development, as well as privacy-preserving solutions using federated learning.
 
 I am looking for talents with strong interest and significant background in computer science at the Animal Science Department of Pennsylvania State University: 1 PhD student, 1 Postdoc, and visiting scholars.
 

@@ -18,7 +18,7 @@ author_notes:
 # - "Equal contribution"
 
 date: "2022-03-19T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1109/DCOSS54816.2022.00031"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-03-19T00:00:00Z"

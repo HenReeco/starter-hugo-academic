@@ -17,7 +17,7 @@ author_notes:
 # - "Equal contribution"
 
 date: "2022-03-19T00:01:00Z"
-doi: ""
+doi: "https://doi.org/10.1109/SMARTCOMP55677.2022.00037"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-03-19T00:01:00Z"

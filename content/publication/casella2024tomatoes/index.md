@@ -1,5 +1,5 @@
 ---
-title: "Using machine learning and behavioral patterns observed by automated feeders and accelerometers for the early indication of clinical Bovine Respiratory Disease status in preweaned dairy calves"
+title: "RuralAI in Tomato Farming: Integrated Sensor System, Distributed Computing, and Hierarchical Federated Learning for Crop Health Monitoring"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -7,22 +7,27 @@ title: "Using machine learning and behavioral patterns observed by automated fee
 authors:
 - admin
 other authors:
-- M. C. Cantor
-- Simone Silvestri
-- D. L. Renaud
-- J. H. C. Costa
+- Harish Devaraj
+- Shaleeza Sohail
+- Melanie Ooi
+- Boyang Li
+- Nathaniel Hudson
+- Matt Baughman
+- Kyle Chard
+- Ryan Chard
+- Ian Foster
+- Omer Rana
 
 # Author notes (optional)
-author_notes:
+# author_notes:
 # - "First author"
 # - "Equal contribution"
-- "Second author"
 
-date: "2022-03-19T00:00:00Z"
-doi: "https://doi.org/10.3389/fanim.2022.852359"
+date: "2024-04-04T00:00:00Z"
+doi: https://doi.org/10.1109/LSENS.2024.3384935
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-03-19T00:00:00Z"
+publishDate: "2024-04-04T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,10 +36,10 @@ publishDate: "2022-03-19T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Frontiers in Animal Science, 2022*
-publication_short: In *Frontiers in Animal Science, 2022*
+publication: In *EEE Sensors Letters, 2024*
+publication_short: In *EEE Sensors Letters, 2024*
 
-abstract: 
+abstract: Precision horticulture is evolving due to scalable sensor deployment and machine learning (ML) integration. These advancements boost the operational efficiency of individual farms, balancing the benefits of analytics with autonomy requirements. However, given concerns that affect wide geographic regions (e.g., climate change), there is a need to apply models that span farms. Federated learning (FL) has emerged as a potential solution. FL enables decentralized ML across different farms without sharing private data. Traditional FL assumes simple two-tier network topologies and, thus, falls short of operating on more complex networks found in real-world agricultural scenarios. Networks vary across crops and farms and encompass various sensor data modes, extending across jurisdictions. New hierarchical FL (HFL) approaches are needed for more efficient and context-sensitive model sharing, accommodating regulations across multiple jurisdictions. We present the RuralAI architecture deployment for tomato crop monitoring, featuring sensor field units for soil, crop, and weather data collection. HFL with personalization is used to offer localized and adaptive insights. Model management, aggregation, and transfers are facilitated via a flexible approach, enabling seamless communication between local devices, edge nodes, and the cloud.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -61,7 +66,7 @@ featured: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: '
+  caption: 'Image credit'
   focal_point: ""
   preview_only: false
 
@@ -72,8 +77,8 @@ image:
 #   Otherwise, set `projects: []`.
 
 # to add this in other pages:
-projects:
-- 2animals
+# projects:
+# - 2animals
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

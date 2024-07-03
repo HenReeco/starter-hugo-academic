@@ -18,7 +18,7 @@ author_notes:
 # - "Equal contribution"
 
 date: "2022-03-03T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1109/PerCom53586.2022.9762402"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-03-03T00:00:00Z"

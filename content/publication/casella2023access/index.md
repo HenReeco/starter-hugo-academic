@@ -19,7 +19,7 @@ author_notes:
 # - "Equal contribution"
 
 date: "2023-06-30T00:01:00Z"
-doi: ""
+doi: "https://doi.org/10.1109/ACCESS.2023.3291348"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-06-30T00:01:00Z"
@@ -73,7 +73,7 @@ image:
 
 # to add this in other pages:
 projects:
-- 2animal
+- 2animals
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
