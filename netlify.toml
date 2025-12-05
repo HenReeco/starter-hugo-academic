@@ -21,8 +21,8 @@
     debug = true
 
 
-[[redirects]]
-  from = "/*"
-  to = "https://www.stillchanging.com/:splat"
-  status = 301
-  force = true
+# [[redirects]]
+#   from = "/*"
+#   to = "https://www.stillchanging.com/:splat"
+#   status = 301
+#   force = true
